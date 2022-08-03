@@ -1,0 +1,56 @@
+1) 운영체제의 이해
+
+개인(단일) 사용자용 : 클라이언트
+
+다중 사용자용 : 서버
+
+클라이언트 → 요청 → 서버
+
+         ←응답 ←
+
+웹브라우저 → url → 웹사이트
+
+        ← 웹페이지 —
+
+2) 운영체제의 종류
+
+- 단일 사용자용 : window, nacos 등 …
+- 다중 사용자용 : window server, Linux 등 …
+- (대부분의 상용 시스템은 Linux 기반으로 운영되며 linux는 바탕화면 없이 명령어로만 제어해야 한다.)
+
+명령어 환경
+
+콘솔→ 쇼핑카트 + 모니터 + 키보드
+
+터미널 → 명령어를 입력하기 위한 프로그램
+
+쉘 → 터미널 안에서 동작하는 명령어 해석기
+
+          linux, mac : bash(기본), zsh(권장)
+
+          window : cmd(권장), powershell
+
+기본명령어 … (표 참고)
+
+파일 확장자 → 파일의 종류를 결정하는 꼬리표 → 파일이름, 확장자
+
+      ex) helloworld.png, nickname.txt
+
+      =⇒ 컴퓨터 기본 설정에서 확장자 표시옵션을 활성화 해야함
+
+        window, mac 각각 배포된 자료 참고.
+
+markdown All in one
+    문법 색상 강조 등의 기본 기능
+
+markdown pdf
+    pdf문서 변환
+
+markdown previre github stying
+    vscode 내에서 미리보기 기능 제공
+
+컨트롤+쉬프트+p ==> preview (미리보기)
+컨트롤+쉬프트+p ==> pdf (pdf파일로변환)
+
+1. 복습 2. 목차
+
